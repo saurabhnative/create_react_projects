@@ -2,7 +2,7 @@
 ID card generation assignment for react 30
 
 Current UI:
-<video src="https://res.cloudinary.com/dk22rcdch/image/upload/v1602039713/Blogimages/gif2_b9c37s.gif" height="400"/>
+<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1602039713/Blogimages/gif2_b9c37s.gif" height="400"/>
 
 ### Objective:
 Populate values in ID card using Javascript
