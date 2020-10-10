@@ -1,5 +1,5 @@
 # Create website projects
-Here you can list of 15 web applications which you can build in a month in order to learn fundamentals of react.js, Node.js and MongoDb in depth
+Here you can list of 15 web applications which you can build in a month in order to learn fundamentals of react.js, Node.js and MongoDb in depth   
 Each project has it's own repository in which you can find starter code for a project and a sample solution.
 
 List of projects:
