@@ -10,6 +10,8 @@ DOM manipulation using Javascript
 Learnings:  
 How to use hooks in react.js
 3. [Digital Clock](https://github.com/codeclassifiers/react30_3_digital_clock)
+Learnings:   
+How to use useEffect hook in react.js and setInterval method in Javascript.   
 4. [Scrollable User Feed](https://github.com/codeclassifiers/react30_4_user_feed_app)
 5. [Image gallery](https://github.com/codeclassifiers/react30_5_image_gallery_app)
 6. [Quote Generation Backend](https://github.com/codeclassifiers/react30_6_quotes_generation_backend)
