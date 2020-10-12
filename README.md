@@ -3,8 +3,12 @@ Here you can list of 15 web applications which you can build in a month in order
 Each project has it's own repository in which you can find starter code for a project and a sample solution.
 
 List of projects:
-1. [User Id Card Generator](https://github.com/codeclassifiers/react30_1_id_card_generator)
-2. [Clicker App](https://github.com/codeclassifiers/react30_2_clickerapp)
+1. [User Id Card Generator](https://github.com/codeclassifiers/react30_1_id_card_generator)  
+Learnings:  
+DOM manipulation using Javascript  
+2. [Clicker App](https://github.com/codeclassifiers/react30_2_clickerapp)  
+Learnings:  
+How to use hooks in react.js
 3. [Digital Clock](https://github.com/codeclassifiers/react30_3_digital_clock)
 4. [Scrollable User Feed](https://github.com/codeclassifiers/react30_4_user_feed_app)
 5. [Image gallery](https://github.com/codeclassifiers/react30_5_image_gallery_app)
