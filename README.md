@@ -29,20 +29,37 @@ Learnings:
 How to use express framework, make database connections and generate APIs  
 
 7. [Quotes Generation Frontend](https://github.com/codeclassifiers/react30_7_quotes_generation_frontend) 
+Learnings:  
+How to use make use of useEffect hook   
 
 8. [Website Navbar](https://github.com/codeclassifiers/react30_8_header) 
+Learnings:  
+How to use make use of react-router for navigation 
 
 9. [Login authentication backend](https://github.com/codeclassifiers/react30_9_login_auth_backend)   
+Learnings:  
+Build APIs to allow user to login and register for an app and get session token  
 
 10. [Login forms](https://github.com/codeclassifiers/react30_10_login_auth_frontend)   
+Learnings:  
+Learn how to authenticate a user in frontend and use a session token for handling private routes  
 
 11. [Information about Crypto Currency](https://github.com/codeclassifiers/react30_11_crypto_currency_info)   
+Learnings:  
+Learn how to create a table and populate a table from JSON data  
 
 12. [Jobs Portal](https://github.com/codeclassifiers/react30_12_jobs_portal)   
+Learnings:  
+Learn how to send data to node server and get data in return  
 
 13. [Video Player](https://github.com/codeclassifiers/react30_13_video_player)   
+Learnings:  
+Learn how to use video tag, play youtube videos and react player usage.  
 
 14. [Charts Data](https://github.com/codeclassifiers/react30_14_charts_data)   
+Learnings:  
+Learn how to build charts and visualisations in react.js  
 
 15. [Online Dev Portfolio](https://github.com/codeclassifiers/react30_15_resume_template)   
-
+Learnings:  
+Learn how build your own developer portfolio  
