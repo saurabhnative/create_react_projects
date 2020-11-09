@@ -28,7 +28,7 @@ How to build image gallery using react.js
 Learnings:  
 How to use express framework, make database connections and generate APIs  
 
-7. [Quotes Generation Frontend](https://github.com/codeclassifiers/react30_7_quotes_generation_frontend) 
+7. [Quotes Generation Frontend](https://github.com/codeclassifiers/react30_7_quotes_generation_frontend)   
 Learnings:  
 How to use make use of useEffect hook   
 
