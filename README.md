@@ -32,7 +32,7 @@ How to use express framework, make database connections and generate APIs
 Learnings:  
 How to use make use of useEffect hook   
 
-8. [Website Navbar](https://github.com/codeclassifiers/react30_8_header) 
+8. [Website Navbar](https://github.com/codeclassifiers/react30_8_header)  
 Learnings:  
 How to use make use of react-router for navigation 
 
